@@ -1,8 +1,7 @@
 
 # unknown
 
-A brief description of what this project does and who it's for
-
+idk
 
 # Hi, I'm KrisnaMG
 
